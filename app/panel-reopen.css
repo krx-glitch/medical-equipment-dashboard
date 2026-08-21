@@ -1,0 +1,43 @@
+.panel-reopen {
+  position: fixed;
+  z-index: 25;
+  top: 50%;
+  right: 0;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 12px 10px 12px 13px;
+  border: 1px solid #c8d9d1;
+  border-right: 0;
+  border-radius: 16px 0 0 16px;
+  background: #ffffff;
+  color: var(--green);
+  box-shadow: -8px 8px 28px rgba(20, 62, 46, 0.14);
+  transform: translateY(-50%);
+}
+
+.panel-reopen span {
+  font-family: Georgia, serif;
+  font-size: 32px;
+  line-height: 0.7;
+}
+
+.panel-reopen small {
+  max-width: 0;
+  overflow: hidden;
+  white-space: nowrap;
+  font-size: 12px;
+  font-weight: 800;
+  opacity: 0;
+  transition: max-width 0.2s ease, opacity 0.2s ease;
+}
+
+.panel-reopen:hover small,
+.panel-reopen:focus-visible small {
+  max-width: 90px;
+  opacity: 1;
+}
+
+@media (max-width: 560px) {
+  .panel-reopen small { display: none; }
+}

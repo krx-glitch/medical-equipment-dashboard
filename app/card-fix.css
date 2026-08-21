@@ -1,0 +1,16 @@
+/* Keep long field labels clear of their values on compact product cards. */
+.product-card dl div {
+  grid-template-columns: 112px minmax(0, 1fr);
+  gap: 12px;
+  align-items: start;
+}
+
+.product-card dt {
+  white-space: nowrap;
+  letter-spacing: 0.04em;
+}
+
+.product-card dd {
+  min-width: 0;
+  overflow-wrap: anywhere;
+}
