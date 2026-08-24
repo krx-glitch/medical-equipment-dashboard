@@ -49,7 +49,7 @@ const companyProfiles:Record<string,{shortName:string;companyType:CompanyType;de
  },
  "Royal International (Alis Pro)":{
   shortName:"Royal International (Alis Pro)",
-  companyType:"Medical Furniture",
+  companyType:"Medical Equipment",
   description:"Healthcare supplier and hospital-furniture manufacturer serving hospitals, clinics and healthcare institutions. Its catalogue also covers medical equipment, surgical instruments, diagnostics, consumables and complete OT setup solutions.",
   address:"Corporate Office: 238, Westend Mall, Janakpuri West, Delhi - 110058. Manufacturing Unit: 115-A, Waryana Industrial Complex, near Leather Complex, Jalandhar, Punjab - 144021.",
   phone:"+91 98788 62255, +91 73031 53195, +91 73031 52840",
