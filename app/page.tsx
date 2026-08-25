@@ -5,7 +5,7 @@ import { useEffect, useMemo, useState } from "react";
 type Product = { product_id:string; sku:string; manufacturer:string; catalog_section_source:string; product_name_source:string; product_name_search:string; technical_specifications:string; specification_status:string; source_pdf:string; source_pdf_page:number; image_file:string; image_files?:string[]; model_number?:string; short_description?:string; detailed_description?:string; };
 type CompanyType="Medical Furniture"|"Medical Equipment";
 const ASSET_BASE=typeof window!=="undefined"&&window.location.hostname.endsWith("github.io")?"/medical-equipment-dashboard":"";
-const IMAGE_VERSION="20260825-zohra-recrops-v2";
+const IMAGE_VERSION="20260825-zohra-recrops-v3";
 const companyProfiles:Record<string,{shortName:string;companyType:CompanyType;description:string;address:string;phone:string;email:string}>={
  "Hosmed Healthcare Industries Pvt. Ltd.":{
   shortName:"Hosmed Healthcare",
