@@ -5926,5 +5926,3391 @@
     "source_pdf_page": 0,
     "image_source_url": "",
     "image_file": "DVY-009.png"
+  },
+  {
+    "product_id": "ZOHRA-001",
+    "sku": "ZSE A01",
+    "model_number": "ZSE A01",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "Steam Sterilizer",
+    "product_name_source": "Cooker Type Autoclave",
+    "product_name_search": "Cooker Type Autoclave",
+    "short_description": "Cooker Type Autoclave",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 5,
+    "image_file": "database/zohra/product_images/zohra-05-01-zse-a01.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-05-01-zse-a01.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-002",
+    "sku": "ZSE A03",
+    "model_number": "ZSE A03",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "Steam Sterilizer",
+    "product_name_source": "Knob Type Autoclaves",
+    "product_name_search": "Knob Type Autoclaves",
+    "short_description": "Knob Type Autoclaves",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 5,
+    "image_file": "database/zohra/product_images/zohra-05-02-zse-a03.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-05-02-zse-a03.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-003",
+    "sku": "ZSE A05",
+    "model_number": "ZSE A05",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "Steam Sterilizer",
+    "product_name_source": "Vertical Autoclave",
+    "product_name_search": "Vertical Autoclave",
+    "short_description": "Vertical Autoclave",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 5,
+    "image_file": "database/zohra/product_images/zohra-05-03-zse-a05.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-05-03-zse-a05.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-004",
+    "sku": "ZSE A06",
+    "model_number": "ZSE A06",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "Steam Sterilizer",
+    "product_name_source": "Vertical High-Pressure Autoclave",
+    "product_name_search": "Vertical High-Pressure Autoclave",
+    "short_description": "Vertical High-Pressure Autoclave",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 5,
+    "image_file": "database/zohra/product_images/zohra-05-04-zse-a06.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-05-04-zse-a06.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-005",
+    "sku": "ZSE A07",
+    "model_number": "ZSE A07",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "Steam Sterilizer",
+    "product_name_source": "Radial Locking Autoclave",
+    "product_name_search": "Radial Locking Autoclave",
+    "short_description": "Radial Locking Autoclave",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 5,
+    "image_file": "database/zohra/product_images/zohra-05-05-zse-a07.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-05-05-zse-a07.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-006",
+    "sku": "ZSE A08",
+    "model_number": "ZSE A08",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "Steam Sterilizer",
+    "product_name_source": "Cylindrical Horizontal Autoclave",
+    "product_name_search": "Cylindrical Horizontal Autoclave",
+    "short_description": "Cylindrical Horizontal Autoclave",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 5,
+    "image_file": "database/zohra/product_images/zohra-05-06-zse-a08.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-05-06-zse-a08.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-007",
+    "sku": "ZSE A10",
+    "model_number": "ZSE A10",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "Steam Sterilizer",
+    "product_name_source": "Rectangular Horizontal Autoclave",
+    "product_name_search": "Rectangular Horizontal Autoclave",
+    "short_description": "Rectangular Horizontal Autoclave",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 5,
+    "image_file": "database/zohra/product_images/zohra-05-07-zse-a10.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-05-07-zse-a10.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-008",
+    "sku": "ZSE A12N",
+    "model_number": "ZSE A12N",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "Steam Sterilizer",
+    "product_name_source": "N Class Autoclave",
+    "product_name_search": "N Class Autoclave",
+    "short_description": "N Class Autoclave",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 5,
+    "image_file": "database/zohra/product_images/zohra-05-08-zse-a12n.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-05-08-zse-a12n.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-009",
+    "sku": "ZSE A12B",
+    "model_number": "ZSE A12B",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "Steam Sterilizer",
+    "product_name_source": "B Class Autoclave",
+    "product_name_search": "B Class Autoclave",
+    "short_description": "B Class Autoclave",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 5,
+    "image_file": "database/zohra/product_images/zohra-05-09-zse-a12b.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-05-09-zse-a12b.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-010",
+    "sku": "ZSE A12DA",
+    "model_number": "ZSE A12DA",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "Steam Sterilizer",
+    "product_name_source": "Cooker Type Dental Autoclave",
+    "product_name_search": "Cooker Type Dental Autoclave",
+    "short_description": "Cooker Type Dental Autoclave",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 5,
+    "image_file": "database/zohra/product_images/zohra-05-10-zse-a12da.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-05-10-zse-a12da.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-011",
+    "sku": "ZSE A13",
+    "model_number": "ZSE A13",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "Hospital Hollowares",
+    "product_name_source": "Instrument Sterilizer",
+    "product_name_search": "Instrument Sterilizer",
+    "short_description": "Instrument Sterilizer",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 6,
+    "image_file": "database/zohra/product_images/zohra-06-01-zse-a13.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-06-01-zse-a13.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-012",
+    "sku": "ZSE A14",
+    "model_number": "ZSE A14",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "Hospital Hollowares",
+    "product_name_source": "Instrument Sterilizer with Thermostat & Hand-Lifting Tray",
+    "product_name_search": "Instrument Sterilizer with Thermostat & Hand-Lifting Tray",
+    "short_description": "Instrument Sterilizer with Thermostat & Hand-Lifting Tray",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 6,
+    "image_file": "database/zohra/product_images/zohra-06-02-zse-a14.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-06-02-zse-a14.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-013",
+    "sku": "ZSE A15",
+    "model_number": "ZSE A15",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "Hospital Hollowares",
+    "product_name_source": "Formalin Chamber (Joint/Seamless)",
+    "product_name_search": "Formalin Chamber (Joint/Seamless)",
+    "short_description": "Formalin Chamber (Joint/Seamless)",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 6,
+    "image_file": "database/zohra/product_images/zohra-06-03-zse-a15.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-06-03-zse-a15.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-014",
+    "sku": "ZSE A16",
+    "model_number": "ZSE A16",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "Hospital Hollowares",
+    "product_name_source": "Dressing Drum",
+    "product_name_search": "Dressing Drum",
+    "short_description": "Dressing Drum",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 6,
+    "image_file": "database/zohra/product_images/zohra-06-04-zse-a16.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-06-04-zse-a16.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-015",
+    "sku": "ZSE A17",
+    "model_number": "ZSE A17",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "Hospital Hollowares",
+    "product_name_source": "Dressing Drum (Ortho Size)",
+    "product_name_search": "Dressing Drum (Ortho Size)",
+    "short_description": "Dressing Drum (Ortho Size)",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 6,
+    "image_file": "database/zohra/product_images/zohra-06-05-zse-a17.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-06-05-zse-a17.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-016",
+    "sku": "ZSE A18",
+    "model_number": "ZSE A18",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "Hospital Hollowares",
+    "product_name_source": "Instrument Tray",
+    "product_name_search": "Instrument Tray",
+    "short_description": "Instrument Tray",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 6,
+    "image_file": "database/zohra/product_images/zohra-06-06-zse-a18.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-06-06-zse-a18.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-017",
+    "sku": "ZSE A19",
+    "model_number": "ZSE A19",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "Hospital Hollowares",
+    "product_name_source": "Kidney Tray",
+    "product_name_search": "Kidney Tray",
+    "short_description": "Kidney Tray",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 6,
+    "image_file": "database/zohra/product_images/zohra-06-07-zse-a19.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-06-07-zse-a19.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-018",
+    "sku": "ZSE A20",
+    "model_number": "ZSE A20",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "Hospital Hollowares",
+    "product_name_source": "Baby Tray",
+    "product_name_search": "Baby Tray",
+    "short_description": "Baby Tray",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 6,
+    "image_file": "database/zohra/product_images/zohra-06-08-zse-a20.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-06-08-zse-a20.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-019",
+    "sku": "ZSE A21",
+    "model_number": "ZSE A21",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "Hospital Hollowares",
+    "product_name_source": "Lotion Bowl",
+    "product_name_search": "Lotion Bowl",
+    "short_description": "Lotion Bowl",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 6,
+    "image_file": "database/zohra/product_images/zohra-06-09-zse-a21.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-06-09-zse-a21.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-020",
+    "sku": "ZSE A22",
+    "model_number": "ZSE A22",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "Hospital Hollowares",
+    "product_name_source": "Basin",
+    "product_name_search": "Basin",
+    "short_description": "Basin",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 6,
+    "image_file": "database/zohra/product_images/zohra-06-10-zse-a22.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-06-10-zse-a22.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-021",
+    "sku": "ZSE A31",
+    "model_number": "ZSE A31",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "Hospital Hollowares",
+    "product_name_source": "Spition S.S.",
+    "product_name_search": "Spition S.S.",
+    "short_description": "Spition S.S.",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 7,
+    "image_file": "database/zohra/product_images/zohra-07-01-zse-a31.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-07-01-zse-a31.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-022",
+    "sku": "ZSE A32",
+    "model_number": "ZSE A32",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "Hospital Hollowares",
+    "product_name_source": "Flowmeter",
+    "product_name_search": "Flowmeter",
+    "short_description": "Flowmeter",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 7,
+    "image_file": "database/zohra/product_images/zohra-07-02-zse-a32.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-07-02-zse-a32.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-023",
+    "sku": "ZSE A33B",
+    "model_number": "ZSE A33B",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "Hospital Hollowares",
+    "product_name_source": "Flowmeter",
+    "product_name_search": "Flowmeter",
+    "short_description": "Flowmeter",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 7,
+    "image_file": "database/zohra/product_images/zohra-07-03-zse-a33b.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-07-03-zse-a33b.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-024",
+    "sku": "ZSE A33",
+    "model_number": "ZSE A33",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "Hospital Hollowares",
+    "product_name_source": "Cidex Tray",
+    "product_name_search": "Cidex Tray",
+    "short_description": "Cidex Tray",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 7,
+    "image_file": "database/zohra/product_images/zohra-07-04-zse-a33.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-07-04-zse-a33.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-025",
+    "sku": "ZSE A34",
+    "model_number": "ZSE A34",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "Hospital Hollowares",
+    "product_name_source": "Cidex Tray Acrylic",
+    "product_name_search": "Cidex Tray Acrylic",
+    "short_description": "Cidex Tray Acrylic",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 7,
+    "image_file": "database/zohra/product_images/zohra-07-05-zse-a34.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-07-05-zse-a34.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-026",
+    "sku": "ZSE A33B-2",
+    "model_number": "ZSE A33B-2",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "Hospital Hollowares",
+    "product_name_source": "Disinfection Tray",
+    "product_name_search": "Disinfection Tray",
+    "short_description": "Disinfection Tray",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 7,
+    "image_file": "database/zohra/product_images/zohra-07-06-zse-a33b-2.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-07-06-zse-a33b-2.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-027",
+    "sku": "ZSE A33C",
+    "model_number": "ZSE A33C",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "Hospital Hollowares",
+    "product_name_source": "Catheter Tray",
+    "product_name_search": "Catheter Tray",
+    "short_description": "Catheter Tray",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 7,
+    "image_file": "database/zohra/product_images/zohra-07-07-zse-a33c.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-07-07-zse-a33c.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-028",
+    "sku": "ZSE A35",
+    "model_number": "ZSE A35",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "Hospital Hollowares",
+    "product_name_source": "Perforated Tray",
+    "product_name_search": "Perforated Tray",
+    "short_description": "Perforated Tray",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 7,
+    "image_file": "database/zohra/product_images/zohra-07-08-zse-a35.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-07-08-zse-a35.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-029",
+    "sku": "ZSE A23",
+    "model_number": "ZSE A23",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "Hospital Hollowares",
+    "product_name_source": "Forceps Jar",
+    "product_name_search": "Forceps Jar",
+    "short_description": "Forceps Jar",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 8,
+    "image_file": "database/zohra/product_images/zohra-08-01-zse-a23.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-08-01-zse-a23.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-030",
+    "sku": "ZSE A24",
+    "model_number": "ZSE A24",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "Hospital Hollowares",
+    "product_name_source": "Irrigator (Double Cane)",
+    "product_name_search": "Irrigator (Double Cane)",
+    "short_description": "Irrigator (Double Cane)",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 8,
+    "image_file": "database/zohra/product_images/zohra-08-02-zse-a24.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-08-02-zse-a24.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-031",
+    "sku": "ZSE A25",
+    "model_number": "ZSE A25",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "Hospital Hollowares",
+    "product_name_source": "Bed Pan Female Plastic Autoclavable",
+    "product_name_search": "Bed Pan Female Plastic Autoclavable",
+    "short_description": "Bed Pan Female Plastic Autoclavable",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 8,
+    "image_file": "database/zohra/product_images/zohra-08-03-zse-a25.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-08-03-zse-a25.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-032",
+    "sku": "ZSE A26",
+    "model_number": "ZSE A26",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "Hospital Hollowares",
+    "product_name_source": "Fetoscope",
+    "product_name_search": "Fetoscope",
+    "short_description": "Fetoscope",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 8,
+    "image_file": "database/zohra/product_images/zohra-08-04-zse-a26.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-08-04-zse-a26.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-033",
+    "sku": "ZSE A27",
+    "model_number": "ZSE A27",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "Hospital Hollowares",
+    "product_name_source": "Bed Pan Female",
+    "product_name_search": "Bed Pan Female",
+    "short_description": "Bed Pan Female",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 8,
+    "image_file": "database/zohra/product_images/zohra-08-05-zse-a27.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-08-05-zse-a27.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-034",
+    "sku": "ZSE A26B",
+    "model_number": "ZSE A26B",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "Hospital Hollowares",
+    "product_name_source": "Bed Pan Male",
+    "product_name_search": "Bed Pan Male",
+    "short_description": "Bed Pan Male",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 8,
+    "image_file": "database/zohra/product_images/zohra-08-06-zse-a26b.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-08-06-zse-a26b.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-035",
+    "sku": "ZSE A27B",
+    "model_number": "ZSE A27B",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "Hospital Hollowares",
+    "product_name_source": "Bed Pan Male Plastic Autoclavable",
+    "product_name_search": "Bed Pan Male Plastic Autoclavable",
+    "short_description": "Bed Pan Male Plastic Autoclavable",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 8,
+    "image_file": "database/zohra/product_images/zohra-08-07-zse-a27b.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-08-07-zse-a27b.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-036",
+    "sku": "ZSE A28",
+    "model_number": "ZSE A28",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "Hospital Hollowares",
+    "product_name_source": "Female Urinal",
+    "product_name_search": "Female Urinal",
+    "short_description": "Female Urinal",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 8,
+    "image_file": "database/zohra/product_images/zohra-08-08-zse-a28.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-08-08-zse-a28.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-037",
+    "sku": "ZSE A29",
+    "model_number": "ZSE A29",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "Hospital Hollowares",
+    "product_name_source": "Male Urinal",
+    "product_name_search": "Male Urinal",
+    "short_description": "Male Urinal",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 8,
+    "image_file": "database/zohra/product_images/zohra-08-09-zse-a29.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-08-09-zse-a29.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-038",
+    "sku": "ZSE A30",
+    "model_number": "ZSE A30",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "Hospital Hollowares",
+    "product_name_source": "Spition",
+    "product_name_search": "Spition",
+    "short_description": "Spition",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 8,
+    "image_file": "database/zohra/product_images/zohra-08-10-zse-a30.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-08-10-zse-a30.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-039",
+    "sku": "ZSE 09A",
+    "model_number": "ZSE 09A",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "Suction Apparatus",
+    "product_name_source": "Suction Apparatus Model 09A",
+    "product_name_search": "Suction Apparatus Model 09A",
+    "short_description": "Suction Apparatus Model 09A",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 9,
+    "image_file": "database/zohra/product_images/zohra-09-01-zse-09a.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-09-01-zse-09a.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-040",
+    "sku": "ZSE 09B",
+    "model_number": "ZSE 09B",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "Suction Apparatus",
+    "product_name_source": "Suction Apparatus Model 09B",
+    "product_name_search": "Suction Apparatus Model 09B",
+    "short_description": "Suction Apparatus Model 09B",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 9,
+    "image_file": "database/zohra/product_images/zohra-09-02-zse-09b.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-09-02-zse-09b.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-041",
+    "sku": "ZSE 09C",
+    "model_number": "ZSE 09C",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "Suction Apparatus",
+    "product_name_source": "Suction Apparatus Model 09C",
+    "product_name_search": "Suction Apparatus Model 09C",
+    "short_description": "Suction Apparatus Model 09C",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 9,
+    "image_file": "database/zohra/product_images/zohra-09-03-zse-09c.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-09-03-zse-09c.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-042",
+    "sku": "ZSE 09D",
+    "model_number": "ZSE 09D",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "Suction Apparatus",
+    "product_name_source": "Suction Apparatus Model 09D",
+    "product_name_search": "Suction Apparatus Model 09D",
+    "short_description": "Suction Apparatus Model 09D",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 9,
+    "image_file": "database/zohra/product_images/zohra-09-04-zse-09d.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-09-04-zse-09d.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-043",
+    "sku": "ZSE 10A",
+    "model_number": "ZSE 10A",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "Suction Apparatus",
+    "product_name_source": "Suction Apparatus Model 10A",
+    "product_name_search": "Suction Apparatus Model 10A",
+    "short_description": "Suction Apparatus Model 10A",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 9,
+    "image_file": "database/zohra/product_images/zohra-09-05-zse-10a.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-09-05-zse-10a.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-044",
+    "sku": "ZSE 10B",
+    "model_number": "ZSE 10B",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "Suction Apparatus",
+    "product_name_source": "Suction Apparatus Model 10B",
+    "product_name_search": "Suction Apparatus Model 10B",
+    "short_description": "Suction Apparatus Model 10B",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 9,
+    "image_file": "database/zohra/product_images/zohra-09-06-zse-10b.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-09-06-zse-10b.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-045",
+    "sku": "ZSE DRY PRO",
+    "model_number": "ZSE DRY PRO",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "Suction Apparatus",
+    "product_name_source": "Dry Pro Suction Unit",
+    "product_name_search": "Dry Pro Suction Unit",
+    "short_description": "Dry Pro Suction Unit",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 9,
+    "image_file": "database/zohra/product_images/zohra-09-07-zse-dry-pro.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-09-07-zse-dry-pro.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-046",
+    "sku": "ZSE 1HP",
+    "model_number": "ZSE 1HP",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "Suction Apparatus",
+    "product_name_source": "1 HP Suction Unit",
+    "product_name_search": "1 HP Suction Unit",
+    "short_description": "1 HP Suction Unit",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 9,
+    "image_file": "database/zohra/product_images/zohra-09-08-zse-1hp.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-09-08-zse-1hp.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-047",
+    "sku": "ZSE FCE",
+    "model_number": "ZSE FCE",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "Suction Apparatus",
+    "product_name_source": "Suction Apparatus Model FCE",
+    "product_name_search": "Suction Apparatus Model FCE",
+    "short_description": "Suction Apparatus Model FCE",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 9,
+    "image_file": "database/zohra/product_images/zohra-09-09-zse-fce.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-09-09-zse-fce.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-048",
+    "sku": "ZSE A36",
+    "model_number": "ZSE A36",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "CSSD Equipment",
+    "product_name_source": "Scrub Sink",
+    "product_name_search": "Scrub Sink",
+    "short_description": "Scrub Sink",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 10,
+    "image_file": "database/zohra/product_images/zohra-10-01-zse-a36.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-10-01-zse-a36.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-049",
+    "sku": "ZSE C01",
+    "model_number": "ZSE C01",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "CSSD Equipment",
+    "product_name_source": "Washing Station 2 Sink",
+    "product_name_search": "Washing Station 2 Sink",
+    "short_description": "Washing Station 2 Sink",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 10,
+    "image_file": "database/zohra/product_images/zohra-10-02-zse-c01.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-10-02-zse-c01.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-050",
+    "sku": "ZSE C02",
+    "model_number": "ZSE C02",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "CSSD Equipment",
+    "product_name_source": "Washing Station 4 Sink",
+    "product_name_search": "Washing Station 4 Sink",
+    "short_description": "Washing Station 4 Sink",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 10,
+    "image_file": "database/zohra/product_images/zohra-10-03-zse-c02.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-10-03-zse-c02.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-051",
+    "sku": "ZSE C03A",
+    "model_number": "ZSE C03A",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "CSSD Equipment",
+    "product_name_source": "Work Table",
+    "product_name_search": "Work Table",
+    "short_description": "Work Table",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 10,
+    "image_file": "database/zohra/product_images/zohra-10-04-zse-c03a.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-10-04-zse-c03a.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-052",
+    "sku": "ZSE C03B",
+    "model_number": "ZSE C03B",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "CSSD Equipment",
+    "product_name_source": "Work Table with Drawers",
+    "product_name_search": "Work Table with Drawers",
+    "short_description": "Work Table with Drawers",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 10,
+    "image_file": "database/zohra/product_images/zohra-10-05-zse-c03b.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-10-05-zse-c03b.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-053",
+    "sku": "ZSE C04",
+    "model_number": "ZSE C04",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "CSSD Equipment",
+    "product_name_source": "Control and Packing Table",
+    "product_name_search": "Control and Packing Table",
+    "short_description": "Control and Packing Table",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 10,
+    "image_file": "database/zohra/product_images/zohra-10-06-zse-c04.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-10-06-zse-c04.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-054",
+    "sku": "ZSE C05",
+    "model_number": "ZSE C05",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "CSSD Equipment",
+    "product_name_source": "Fan-Shape Packing Table",
+    "product_name_search": "Fan-Shape Packing Table",
+    "short_description": "Fan-Shape Packing Table",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 10,
+    "image_file": "database/zohra/product_images/zohra-10-07-zse-c05.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-10-07-zse-c05.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-055",
+    "sku": "ZSE C06",
+    "model_number": "ZSE C06",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "CSSD Equipment",
+    "product_name_source": "Storage Rack",
+    "product_name_search": "Storage Rack",
+    "short_description": "Storage Rack",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 10,
+    "image_file": "database/zohra/product_images/zohra-10-08-zse-c06.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-10-08-zse-c06.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-056",
+    "sku": "ZSE C08",
+    "model_number": "ZSE C08",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "CSSD Equipment",
+    "product_name_source": "Storage Cabinet",
+    "product_name_search": "Storage Cabinet",
+    "short_description": "Storage Cabinet",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 10,
+    "image_file": "database/zohra/product_images/zohra-10-09-zse-c08.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-10-09-zse-c08.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-057",
+    "sku": "ZSE C09",
+    "model_number": "ZSE C09",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "CSSD Equipment",
+    "product_name_source": "Closed Transport Trolley",
+    "product_name_search": "Closed Transport Trolley",
+    "short_description": "Closed Transport Trolley",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 10,
+    "image_file": "database/zohra/product_images/zohra-10-10-zse-c09.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-10-10-zse-c09.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-058",
+    "sku": "ZSE A37",
+    "model_number": "ZSE A37",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "CSSD Equipment",
+    "product_name_source": "ETO Sterilizer",
+    "product_name_search": "ETO Sterilizer",
+    "short_description": "ETO Sterilizer",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 10,
+    "image_file": "database/zohra/product_images/zohra-10-11-zse-a37.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-10-11-zse-a37.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-059",
+    "sku": "ZSE A39-D",
+    "model_number": "ZSE A39-D",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "Suction Accessories and Fumigation Equipment",
+    "product_name_source": "ULV Micro Fogger Digital Timer with Rotator",
+    "product_name_search": "ULV Micro Fogger Digital Timer with Rotator",
+    "short_description": "ULV Micro Fogger Digital Timer with Rotator",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 11,
+    "image_file": "database/zohra/product_images/zohra-11-01-zse-a39-d.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-11-01-zse-a39-d.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-060",
+    "sku": "ZSE A39-X",
+    "model_number": "ZSE A39-X",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "Suction Accessories and Fumigation Equipment",
+    "product_name_source": "Deluxe Fumigation Model",
+    "product_name_search": "Deluxe Fumigation Model",
+    "short_description": "Deluxe Fumigation Model",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 11,
+    "image_file": "database/zohra/product_images/zohra-11-02-zse-a39-x.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-11-02-zse-a39-x.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-061",
+    "sku": "ZSE A39-J",
+    "model_number": "ZSE A39-J",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "Suction Accessories and Fumigation Equipment",
+    "product_name_source": "Suction Unit Jars ABS Model",
+    "product_name_search": "Suction Unit Jars ABS Model",
+    "short_description": "Suction Unit Jars ABS Model",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 11,
+    "image_file": "database/zohra/product_images/zohra-11-03-zse-a39-j.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-11-03-zse-a39-j.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-062",
+    "sku": "ZSE A40",
+    "model_number": "ZSE A40",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "Suction Accessories and Fumigation Equipment",
+    "product_name_source": "Portable Fumigator",
+    "product_name_search": "Portable Fumigator",
+    "short_description": "Portable Fumigator",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 11,
+    "image_file": "database/zohra/product_images/zohra-11-04-zse-a40.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-11-04-zse-a40.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-063",
+    "sku": "ZSE A23D",
+    "model_number": "ZSE A23D",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "Suction Apparatus",
+    "product_name_source": "Suction Unit Model A23D",
+    "product_name_search": "Suction Unit Model A23D",
+    "short_description": "Suction Unit Model A23D",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 12,
+    "image_file": "database/zohra/product_images/zohra-12-01-zse-a23d-1.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-12-01-zse-a23d-1.webp",
+      "database/zohra/product_images/zohra-12-02-zse-a23d-2.webp",
+      "database/zohra/product_images/zohra-12-03-zse-a23d-3.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-066",
+    "sku": "ZSE SUPRO",
+    "model_number": "ZSE SUPRO",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "Suction Apparatus",
+    "product_name_source": "Supro Suction Unit",
+    "product_name_search": "Supro Suction Unit",
+    "short_description": "Supro Suction Unit",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 12,
+    "image_file": "database/zohra/product_images/zohra-12-04-zse-supro.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-12-04-zse-supro.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-067",
+    "sku": "ZSE SUPRO-NR",
+    "model_number": "ZSE SUPRO-NR",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "Suction Apparatus",
+    "product_name_source": "Supro AC/DC Suction Unit - Not Rechargeable",
+    "product_name_search": "Supro AC/DC Suction Unit - Not Rechargeable",
+    "short_description": "Supro AC/DC Suction Unit - Not Rechargeable",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 12,
+    "image_file": "database/zohra/product_images/zohra-12-05-zse-supro-nr.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-12-05-zse-supro-nr.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-068",
+    "sku": "ZSE A22B",
+    "model_number": "ZSE A22B",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "Suction Apparatus",
+    "product_name_source": "Suction Unit Model A22B",
+    "product_name_search": "Suction Unit Model A22B",
+    "short_description": "Suction Unit Model A22B",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 12,
+    "image_file": "database/zohra/product_images/zohra-12-06-zse-a22b-1.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-12-06-zse-a22b-1.webp",
+      "database/zohra/product_images/zohra-12-07-zse-a22b-2.webp",
+      "database/zohra/product_images/zohra-12-08-zse-a22b-3.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-071",
+    "sku": "ZSE 2PS",
+    "model_number": "ZSE 2PS",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "Suction Apparatus",
+    "product_name_source": "Suction Unit Model 2PS",
+    "product_name_search": "Suction Unit Model 2PS",
+    "short_description": "Suction Unit Model 2PS",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 12,
+    "image_file": "database/zohra/product_images/zohra-12-09-zse-2ps.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-12-09-zse-2ps.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-072",
+    "sku": "ZSE A306",
+    "model_number": "ZSE A306",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "Hospital Furniture",
+    "product_name_source": "Pediatric Bed",
+    "product_name_search": "Pediatric Bed",
+    "short_description": "Pediatric Bed",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 13,
+    "image_file": "database/zohra/product_images/zohra-13-01-zse-a306.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-13-01-zse-a306.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-073",
+    "sku": "ZSE A82",
+    "model_number": "ZSE A82",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "Hospital Furniture",
+    "product_name_source": "Attendant Bed Cum Chair",
+    "product_name_search": "Attendant Bed Cum Chair",
+    "short_description": "Attendant Bed Cum Chair",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 13,
+    "image_file": "database/zohra/product_images/zohra-13-02-zse-a82.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-13-02-zse-a82.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-074",
+    "sku": "ZSE A83",
+    "model_number": "ZSE A83",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "Hospital Furniture",
+    "product_name_source": "Treatment Couch",
+    "product_name_search": "Treatment Couch",
+    "short_description": "Treatment Couch",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 13,
+    "image_file": "database/zohra/product_images/zohra-13-03-zse-a83.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-13-03-zse-a83.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-075",
+    "sku": "ZSE A76",
+    "model_number": "ZSE A76",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "Hospital Furniture",
+    "product_name_source": "Gynaecological Examination Couch",
+    "product_name_search": "Gynaecological Examination Couch",
+    "short_description": "Gynaecological Examination Couch",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 13,
+    "image_file": "database/zohra/product_images/zohra-13-04-zse-a76.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-13-04-zse-a76.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-076",
+    "sku": "ZSE A68",
+    "model_number": "ZSE A68",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "Hospital Furniture",
+    "product_name_source": "Mattress for Bed",
+    "product_name_search": "Mattress for Bed",
+    "short_description": "Mattress for Bed",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 13,
+    "image_file": "database/zohra/product_images/zohra-13-05-zse-a68.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-13-05-zse-a68.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-077",
+    "sku": "ZSE A61",
+    "model_number": "ZSE A61",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "Hospital Furniture",
+    "product_name_source": "Ambulance Stretcher",
+    "product_name_search": "Ambulance Stretcher",
+    "short_description": "Ambulance Stretcher",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 13,
+    "image_file": "database/zohra/product_images/zohra-13-06-zse-a61.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-13-06-zse-a61.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-078",
+    "sku": "ZSE A63",
+    "model_number": "ZSE A63",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "Hospital Furniture",
+    "product_name_source": "Emergency Stretcher",
+    "product_name_search": "Emergency Stretcher",
+    "short_description": "Emergency Stretcher",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 13,
+    "image_file": "database/zohra/product_images/zohra-13-07-zse-a63.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-13-07-zse-a63.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-079",
+    "sku": "ZSE A315",
+    "model_number": "ZSE A315",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "Hospital Furniture",
+    "product_name_source": "Recovery Trolley",
+    "product_name_search": "Recovery Trolley",
+    "short_description": "Recovery Trolley",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 13,
+    "image_file": "database/zohra/product_images/zohra-13-08-zse-a315.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-13-08-zse-a315.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-080",
+    "sku": "ZSE A268",
+    "model_number": "ZSE A268",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "Hospital Furniture",
+    "product_name_source": "Stretcher on Trolley",
+    "product_name_search": "Stretcher on Trolley",
+    "short_description": "Stretcher on Trolley",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 13,
+    "image_file": "database/zohra/product_images/zohra-13-09-zse-a268.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-13-09-zse-a268.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-081",
+    "sku": "ZSE AN14",
+    "model_number": "ZSE AN14",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "Hospital Furniture",
+    "product_name_source": "Bed Guard Stretcher",
+    "product_name_search": "Bed Guard Stretcher",
+    "short_description": "Bed Guard Stretcher",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 13,
+    "image_file": "database/zohra/product_images/zohra-13-10-zse-an14.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-13-10-zse-an14.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-082",
+    "sku": "ZSE A74A",
+    "model_number": "ZSE A74A",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "Hospital Furniture",
+    "product_name_source": "Air Bed Mattress",
+    "product_name_search": "Air Bed Mattress",
+    "short_description": "Air Bed Mattress",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 13,
+    "image_file": "database/zohra/product_images/zohra-13-11-zse-a74a.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-13-11-zse-a74a.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-083",
+    "sku": "ZSE A41",
+    "model_number": "ZSE A41",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "Hospital Furniture",
+    "product_name_source": "Mechanical ICU Bed - 3 Functions",
+    "product_name_search": "Mechanical ICU Bed - 3 Functions",
+    "short_description": "Mechanical ICU Bed - 3 Functions",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 14,
+    "image_file": "database/zohra/product_images/zohra-14-01-zse-a41.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-14-01-zse-a41.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-084",
+    "sku": "ZSE A45",
+    "model_number": "ZSE A45",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "Hospital Furniture",
+    "product_name_source": "Mechanical ICU Bed - 5 Functions",
+    "product_name_search": "Mechanical ICU Bed - 5 Functions",
+    "short_description": "Mechanical ICU Bed - 5 Functions",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 14,
+    "image_file": "database/zohra/product_images/zohra-14-02-zse-a45.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-14-02-zse-a45.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-085",
+    "sku": "ZSE A50",
+    "model_number": "ZSE A50",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "Hospital Furniture",
+    "product_name_source": "Hospital Plain Bed",
+    "product_name_search": "Hospital Plain Bed",
+    "short_description": "Hospital Plain Bed",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 14,
+    "image_file": "database/zohra/product_images/zohra-14-03-zse-a50.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-14-03-zse-a50.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-086",
+    "sku": "ZSE A53",
+    "model_number": "ZSE A53",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "Hospital Furniture",
+    "product_name_source": "Semi Fowler Bed",
+    "product_name_search": "Semi Fowler Bed",
+    "short_description": "Semi Fowler Bed",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 14,
+    "image_file": "database/zohra/product_images/zohra-14-04-zse-a53.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-14-04-zse-a53.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-087",
+    "sku": "ZSE A56",
+    "model_number": "ZSE A56",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "Hospital Furniture",
+    "product_name_source": "Full Fowler Bed",
+    "product_name_search": "Full Fowler Bed",
+    "short_description": "Full Fowler Bed",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 14,
+    "image_file": "database/zohra/product_images/zohra-14-05-zse-a56.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-14-05-zse-a56.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-088",
+    "sku": "ZSE A57",
+    "model_number": "ZSE A57",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "Hospital Furniture",
+    "product_name_source": "Electric ICU Bed - 3 Functions",
+    "product_name_search": "Electric ICU Bed - 3 Functions",
+    "short_description": "Electric ICU Bed - 3 Functions",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 14,
+    "image_file": "database/zohra/product_images/zohra-14-06-zse-a57.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-14-06-zse-a57.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-089",
+    "sku": "ZSE A58",
+    "model_number": "ZSE A58",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "Hospital Furniture",
+    "product_name_source": "Electric ICU Bed - 5 Functions",
+    "product_name_search": "Electric ICU Bed - 5 Functions",
+    "short_description": "Electric ICU Bed - 5 Functions",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 14,
+    "image_file": "database/zohra/product_images/zohra-14-07-zse-a58.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-14-07-zse-a58.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-090",
+    "sku": "ZSE A59",
+    "model_number": "ZSE A59",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "Hospital Furniture",
+    "product_name_source": "Electric ICU Bed - 7 Functions",
+    "product_name_search": "Electric ICU Bed - 7 Functions",
+    "short_description": "Electric ICU Bed - 7 Functions",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 14,
+    "image_file": "database/zohra/product_images/zohra-14-08-zse-a59.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-14-08-zse-a59.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-091",
+    "sku": "ZSE A72",
+    "model_number": "ZSE A72",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "Hospital Furniture",
+    "product_name_source": "Electric Delivery Bed",
+    "product_name_search": "Electric Delivery Bed",
+    "short_description": "Electric Delivery Bed",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 14,
+    "image_file": "database/zohra/product_images/zohra-14-09-zse-a72.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-14-09-zse-a72.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-092",
+    "sku": "ZSE A73",
+    "model_number": "ZSE A73",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "Hospital Furniture",
+    "product_name_source": "Hydraulic Delivery Bed",
+    "product_name_search": "Hydraulic Delivery Bed",
+    "short_description": "Hydraulic Delivery Bed",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 14,
+    "image_file": "database/zohra/product_images/zohra-14-10-zse-a73.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-14-10-zse-a73.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-093",
+    "sku": "ZSE A90",
+    "model_number": "ZSE A90",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "Hospital Furniture",
+    "product_name_source": "Emergency Medicine Trolley",
+    "product_name_search": "Emergency Medicine Trolley",
+    "short_description": "Emergency Medicine Trolley",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 15,
+    "image_file": "database/zohra/product_images/zohra-15-01-zse-a90.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-15-01-zse-a90.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-094",
+    "sku": "ZSE A91",
+    "model_number": "ZSE A91",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "Hospital Furniture",
+    "product_name_source": "ABS Medicine Trolley",
+    "product_name_search": "ABS Medicine Trolley",
+    "short_description": "ABS Medicine Trolley",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 15,
+    "image_file": "database/zohra/product_images/zohra-15-02-zse-a91.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-15-02-zse-a91.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-095",
+    "sku": "ZSE A92",
+    "model_number": "ZSE A92",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "Hospital Furniture",
+    "product_name_source": "Crash Cart",
+    "product_name_search": "Crash Cart",
+    "short_description": "Crash Cart",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 15,
+    "image_file": "database/zohra/product_images/zohra-15-03-zse-a92.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-15-03-zse-a92.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-096",
+    "sku": "ZSE A93",
+    "model_number": "ZSE A93",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "Hospital Furniture",
+    "product_name_source": "ECG Trolley",
+    "product_name_search": "ECG Trolley",
+    "short_description": "ECG Trolley",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 15,
+    "image_file": "database/zohra/product_images/zohra-15-04-zse-a93.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-15-04-zse-a93.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-097",
+    "sku": "ZSE A140",
+    "model_number": "ZSE A140",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "Hospital Furniture",
+    "product_name_source": "Anaesthesia Trolley",
+    "product_name_search": "Anaesthesia Trolley",
+    "short_description": "Anaesthesia Trolley",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 15,
+    "image_file": "database/zohra/product_images/zohra-15-05-zse-a140.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-15-05-zse-a140.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-098",
+    "sku": "ZSE A137",
+    "model_number": "ZSE A137",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "Hospital Furniture",
+    "product_name_source": "Laparoscopic Trolley",
+    "product_name_search": "Laparoscopic Trolley",
+    "short_description": "Laparoscopic Trolley",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 15,
+    "image_file": "database/zohra/product_images/zohra-15-06-zse-a137.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-15-06-zse-a137.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-099",
+    "sku": "ZSE A316",
+    "model_number": "ZSE A316",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "Hospital Furniture",
+    "product_name_source": "Utility Trolley",
+    "product_name_search": "Utility Trolley",
+    "short_description": "Utility Trolley",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 15,
+    "image_file": "database/zohra/product_images/zohra-15-07-zse-a316.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-15-07-zse-a316.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-100",
+    "sku": "ZSE A94",
+    "model_number": "ZSE A94",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "Hospital Furniture",
+    "product_name_source": "ABS Trolley",
+    "product_name_search": "ABS Trolley",
+    "short_description": "ABS Trolley",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 15,
+    "image_file": "database/zohra/product_images/zohra-15-08-zse-a94.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-15-08-zse-a94.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-101",
+    "sku": "ZSE A312",
+    "model_number": "ZSE A312",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "Hospital Furniture",
+    "product_name_source": "Oxygen Trolley",
+    "product_name_search": "Oxygen Trolley",
+    "short_description": "Oxygen Trolley",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 15,
+    "image_file": "database/zohra/product_images/zohra-15-09-zse-a312.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-15-09-zse-a312.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-102",
+    "sku": "ZSE A69",
+    "model_number": "ZSE A69",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "Hospital Furniture",
+    "product_name_source": "Electric Wheelchair",
+    "product_name_search": "Electric Wheelchair",
+    "short_description": "Electric Wheelchair",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 16,
+    "image_file": "database/zohra/product_images/zohra-16-01-zse-a69.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-16-01-zse-a69.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-103",
+    "sku": "ZSE A71",
+    "model_number": "ZSE A71",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "Hospital Furniture",
+    "product_name_source": "Blood Transfusion Chair",
+    "product_name_search": "Blood Transfusion Chair",
+    "short_description": "Blood Transfusion Chair",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 16,
+    "image_file": "database/zohra/product_images/zohra-16-02-zse-a71.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-16-02-zse-a71.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-104",
+    "sku": "ZSE A77",
+    "model_number": "ZSE A77",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "Hospital Furniture",
+    "product_name_source": "Wheelchair",
+    "product_name_search": "Wheelchair",
+    "short_description": "Wheelchair",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 16,
+    "image_file": "database/zohra/product_images/zohra-16-03-zse-a77.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-16-03-zse-a77.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-105",
+    "sku": "ZSE A79",
+    "model_number": "ZSE A79",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "Hospital Furniture",
+    "product_name_source": "Dialysis Chair",
+    "product_name_search": "Dialysis Chair",
+    "short_description": "Dialysis Chair",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 16,
+    "image_file": "database/zohra/product_images/zohra-16-04-zse-a79.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-16-04-zse-a79.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-106",
+    "sku": "ZSE AN7",
+    "model_number": "ZSE AN7",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "Hospital Furniture",
+    "product_name_source": "Waiting Chair",
+    "product_name_search": "Waiting Chair",
+    "short_description": "Waiting Chair",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 16,
+    "image_file": "database/zohra/product_images/zohra-16-05-zse-an7.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-16-05-zse-an7.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-107",
+    "sku": "ZSE A305",
+    "model_number": "ZSE A305",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "Hospital Furniture",
+    "product_name_source": "Revolving and Visitor Stool",
+    "product_name_search": "Revolving and Visitor Stool",
+    "short_description": "Revolving and Visitor Stool",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 16,
+    "image_file": "database/zohra/product_images/zohra-16-06-zse-a305.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-16-06-zse-a305.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-108",
+    "sku": "ZSE A108/A109",
+    "model_number": "ZSE A108/A109",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "Hospital Furniture",
+    "product_name_source": "Footstep S.S. and M.S.",
+    "product_name_search": "Footstep S.S. and M.S.",
+    "short_description": "Footstep S.S. and M.S.",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 16,
+    "image_file": "database/zohra/product_images/zohra-16-07-zse-a108-a109.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-16-07-zse-a108-a109.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-109",
+    "sku": "ZSE A111",
+    "model_number": "ZSE A111",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "Hospital Furniture",
+    "product_name_source": "Bedside Screen",
+    "product_name_search": "Bedside Screen",
+    "short_description": "Bedside Screen",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 16,
+    "image_file": "database/zohra/product_images/zohra-16-08-zse-a111.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-16-08-zse-a111.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-110",
+    "sku": "ZSE AN13",
+    "model_number": "ZSE AN13",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "Hospital Furniture",
+    "product_name_source": "IV Stand",
+    "product_name_search": "IV Stand",
+    "short_description": "IV Stand",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 16,
+    "image_file": "database/zohra/product_images/zohra-16-09-zse-an13.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-16-09-zse-an13.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-111",
+    "sku": "ZSE A86",
+    "model_number": "ZSE A86",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "Hospital Furniture",
+    "product_name_source": "Dental Chair",
+    "product_name_search": "Dental Chair",
+    "short_description": "Dental Chair",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 16,
+    "image_file": "database/zohra/product_images/zohra-16-10-zse-a86.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-16-10-zse-a86.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-112",
+    "sku": "ZSE A104",
+    "model_number": "ZSE A104",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "Hospital Furniture",
+    "product_name_source": "General Bedside Locker",
+    "product_name_search": "General Bedside Locker",
+    "short_description": "General Bedside Locker",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 17,
+    "image_file": "database/zohra/product_images/zohra-17-01-zse-a104.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-17-01-zse-a104.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-113",
+    "sku": "ZSE A105",
+    "model_number": "ZSE A105",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "Hospital Furniture",
+    "product_name_source": "Bedside Cabinet ABS Imported",
+    "product_name_search": "Bedside Cabinet ABS Imported",
+    "short_description": "Bedside Cabinet ABS Imported",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 17,
+    "image_file": "database/zohra/product_images/zohra-17-02-zse-a105.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-17-02-zse-a105.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-114",
+    "sku": "ZSE A106",
+    "model_number": "ZSE A106",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "Hospital Furniture",
+    "product_name_source": "Three-Shelf Open S.S. Bedside Locker",
+    "product_name_search": "Three-Shelf Open S.S. Bedside Locker",
+    "short_description": "Three-Shelf Open S.S. Bedside Locker",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 17,
+    "image_file": "database/zohra/product_images/zohra-17-03-zse-a106.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-17-03-zse-a106.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-115",
+    "sku": "ZSE A107",
+    "model_number": "ZSE A107",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "Hospital Furniture",
+    "product_name_source": "Bedside Locker Deluxe",
+    "product_name_search": "Bedside Locker Deluxe",
+    "short_description": "Bedside Locker Deluxe",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 17,
+    "image_file": "database/zohra/product_images/zohra-17-04-zse-a107.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-17-04-zse-a107.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-116",
+    "sku": "ZSE A84",
+    "model_number": "ZSE A84",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "Hospital Furniture",
+    "product_name_source": "Overbed Table - Fixed Height",
+    "product_name_search": "Overbed Table - Fixed Height",
+    "short_description": "Overbed Table - Fixed Height",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 17,
+    "image_file": "database/zohra/product_images/zohra-17-05-zse-a84.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-17-05-zse-a84.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-117",
+    "sku": "ZSE A85",
+    "model_number": "ZSE A85",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "Hospital Furniture",
+    "product_name_source": "Overbed Table - Adjustable Height",
+    "product_name_search": "Overbed Table - Adjustable Height",
+    "short_description": "Overbed Table - Adjustable Height",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 17,
+    "image_file": "database/zohra/product_images/zohra-17-06-zse-a85.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-17-06-zse-a85.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-118",
+    "sku": "ZSE A100",
+    "model_number": "ZSE A100",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "Hospital Furniture",
+    "product_name_source": "Double S.S. Wash Basin Stand",
+    "product_name_search": "Double S.S. Wash Basin Stand",
+    "short_description": "Double S.S. Wash Basin Stand",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 17,
+    "image_file": "database/zohra/product_images/zohra-17-07-zse-a100.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-17-07-zse-a100.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-119",
+    "sku": "ZSE A121A",
+    "model_number": "ZSE A121A",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "Hospital Furniture",
+    "product_name_source": "Medical Waste Bags",
+    "product_name_search": "Medical Waste Bags",
+    "short_description": "Medical Waste Bags",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 17,
+    "image_file": "database/zohra/product_images/zohra-17-08-zse-a121a.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-17-08-zse-a121a.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-120",
+    "sku": "ZSE A121",
+    "model_number": "ZSE A121",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "Hospital Furniture",
+    "product_name_source": "Medical Waste Dustbin",
+    "product_name_search": "Medical Waste Dustbin",
+    "short_description": "Medical Waste Dustbin",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 17,
+    "image_file": "database/zohra/product_images/zohra-17-09-zse-a121.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-17-09-zse-a121.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-121",
+    "sku": "ZSE A308",
+    "model_number": "ZSE A308",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "Hospital Furniture",
+    "product_name_source": "Instrument Trolley",
+    "product_name_search": "Instrument Trolley",
+    "short_description": "Instrument Trolley",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 18,
+    "image_file": "database/zohra/product_images/zohra-18-01-zse-a308.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-18-01-zse-a308.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-122",
+    "sku": "ZSE A95",
+    "model_number": "ZSE A95",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "Hospital Furniture",
+    "product_name_source": "Dressing Trolley",
+    "product_name_search": "Dressing Trolley",
+    "short_description": "Dressing Trolley",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 18,
+    "image_file": "database/zohra/product_images/zohra-18-02-zse-a95.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-18-02-zse-a95.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-123",
+    "sku": "ZSE A97",
+    "model_number": "ZSE A97",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "Hospital Furniture",
+    "product_name_source": "Mayo Trolley",
+    "product_name_search": "Mayo Trolley",
+    "short_description": "Mayo Trolley",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 18,
+    "image_file": "database/zohra/product_images/zohra-18-03-zse-a97.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-18-03-zse-a97.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-124",
+    "sku": "ZSE A311",
+    "model_number": "ZSE A311",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "Hospital Furniture",
+    "product_name_source": "Platform Trolley",
+    "product_name_search": "Platform Trolley",
+    "short_description": "Platform Trolley",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 18,
+    "image_file": "database/zohra/product_images/zohra-18-04-zse-a311.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-18-04-zse-a311.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-125",
+    "sku": "ZSE A99",
+    "model_number": "ZSE A99",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "Hospital Furniture",
+    "product_name_source": "Soiled Linen Trolley",
+    "product_name_search": "Soiled Linen Trolley",
+    "short_description": "Soiled Linen Trolley",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 18,
+    "image_file": "database/zohra/product_images/zohra-18-05-zse-a99.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-18-05-zse-a99.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-126",
+    "sku": "ZSE A95B",
+    "model_number": "ZSE A95B",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "Hospital Furniture",
+    "product_name_source": "Linen Change Trolley",
+    "product_name_search": "Linen Change Trolley",
+    "short_description": "Linen Change Trolley",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 18,
+    "image_file": "database/zohra/product_images/zohra-18-06-zse-a95b.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-18-06-zse-a95b.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-127",
+    "sku": "ZSE A314",
+    "model_number": "ZSE A314",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "Hospital Furniture",
+    "product_name_source": "Mortuary Trolley",
+    "product_name_search": "Mortuary Trolley",
+    "short_description": "Mortuary Trolley",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 18,
+    "image_file": "database/zohra/product_images/zohra-18-07-zse-a314.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-18-07-zse-a314.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-128",
+    "sku": "ZSE A314-HL",
+    "model_number": "ZSE A314-HL",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "Hospital Furniture",
+    "product_name_source": "Hi-Lo Mortuary Trolley",
+    "product_name_search": "Hi-Lo Mortuary Trolley",
+    "short_description": "Hi-Lo Mortuary Trolley",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 18,
+    "image_file": "database/zohra/product_images/zohra-18-08-zse-a314-hl.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-18-08-zse-a314-hl.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-129",
+    "sku": "ZSE A127",
+    "model_number": "ZSE A127",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "OT Equipment",
+    "product_name_source": "OT Light 50+40 LED",
+    "product_name_search": "OT Light 50+40 LED",
+    "short_description": "OT Light 50+40 LED",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 19,
+    "image_file": "database/zohra/product_images/zohra-19-01-zse-a127.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-19-01-zse-a127.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-130",
+    "sku": "ZSE A127B",
+    "model_number": "ZSE A127B",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "OT Equipment",
+    "product_name_source": "OT Light N5+N4 LED",
+    "product_name_search": "OT Light N5+N4 LED",
+    "short_description": "OT Light N5+N4 LED",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 19,
+    "image_file": "database/zohra/product_images/zohra-19-02-zse-a127b.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-19-02-zse-a127b.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-131",
+    "sku": "ZSE A128",
+    "model_number": "ZSE A128",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "OT Equipment",
+    "product_name_source": "OT Light 32 LED",
+    "product_name_search": "OT Light 32 LED",
+    "short_description": "OT Light 32 LED",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 19,
+    "image_file": "database/zohra/product_images/zohra-19-03-zse-a128.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-19-03-zse-a128.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-132",
+    "sku": "ZSE A128B",
+    "model_number": "ZSE A128B",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "OT Equipment",
+    "product_name_source": "OT Light H4+H4 LED",
+    "product_name_search": "OT Light H4+H4 LED",
+    "short_description": "OT Light H4+H4 LED",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 19,
+    "image_file": "database/zohra/product_images/zohra-19-04-zse-a128b.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-19-04-zse-a128b.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-133",
+    "sku": "ZSE A129",
+    "model_number": "ZSE A129",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "OT Equipment",
+    "product_name_source": "OT Light 56 LED",
+    "product_name_search": "OT Light 56 LED",
+    "short_description": "OT Light 56 LED",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 19,
+    "image_file": "database/zohra/product_images/zohra-19-05-zse-a129.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-19-05-zse-a129.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-134",
+    "sku": "ZSE A130",
+    "model_number": "ZSE A130",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "OT Equipment",
+    "product_name_source": "OT Light 48 LED",
+    "product_name_search": "OT Light 48 LED",
+    "short_description": "OT Light 48 LED",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 19,
+    "image_file": "database/zohra/product_images/zohra-19-06-zse-a130.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-19-06-zse-a130.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-135",
+    "sku": "ZSE A130B",
+    "model_number": "ZSE A130B",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "OT Equipment",
+    "product_name_source": "OT Light 56+56 LED",
+    "product_name_search": "OT Light 56+56 LED",
+    "short_description": "OT Light 56+56 LED",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 19,
+    "image_file": "database/zohra/product_images/zohra-19-07-zse-a130b.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-19-07-zse-a130b.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-136",
+    "sku": "ZSE A131",
+    "model_number": "ZSE A131",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "OT Equipment",
+    "product_name_source": "OT Light 105+105 LED",
+    "product_name_search": "OT Light 105+105 LED",
+    "short_description": "OT Light 105+105 LED",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 19,
+    "image_file": "database/zohra/product_images/zohra-19-08-zse-a131.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-19-08-zse-a131.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-137",
+    "sku": "ZSE A131B",
+    "model_number": "ZSE A131B",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "OT Equipment",
+    "product_name_source": "OT Light 56+56 LED",
+    "product_name_search": "OT Light 56+56 LED",
+    "short_description": "OT Light 56+56 LED",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 19,
+    "image_file": "database/zohra/product_images/zohra-19-09-zse-a131b.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-19-09-zse-a131b.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-138",
+    "sku": "ZSE A132",
+    "model_number": "ZSE A132",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "OT Equipment",
+    "product_name_source": "OT Light 57+76 LED",
+    "product_name_search": "OT Light 57+76 LED",
+    "short_description": "OT Light 57+76 LED",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 19,
+    "image_file": "database/zohra/product_images/zohra-19-10-zse-a132.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-19-10-zse-a132.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-139",
+    "sku": "ZSE A135A",
+    "model_number": "ZSE A135A",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "OT Equipment",
+    "product_name_source": "Examination Light",
+    "product_name_search": "Examination Light",
+    "short_description": "Examination Light",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 19,
+    "image_file": "database/zohra/product_images/zohra-19-11-zse-a135a.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-19-11-zse-a135a.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-140",
+    "sku": "ZSE A124",
+    "model_number": "ZSE A124",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "OT Equipment",
+    "product_name_source": "Electro-Hydraulic OT Table",
+    "product_name_search": "Electro-Hydraulic OT Table",
+    "short_description": "Electro-Hydraulic OT Table",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 20,
+    "image_file": "database/zohra/product_images/zohra-20-01-zse-a124.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-20-01-zse-a124.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-141",
+    "sku": "ZSE A123",
+    "model_number": "ZSE A123",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "OT Equipment",
+    "product_name_source": "Ophthalmic OT Table",
+    "product_name_search": "Ophthalmic OT Table",
+    "short_description": "Ophthalmic OT Table",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 20,
+    "image_file": "database/zohra/product_images/zohra-20-02-zse-a123.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-20-02-zse-a123.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-142",
+    "sku": "ZSE A123B",
+    "model_number": "ZSE A123B",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "OT Equipment",
+    "product_name_source": "C-Arm Compatible Electric OT Table",
+    "product_name_search": "C-Arm Compatible Electric OT Table",
+    "short_description": "C-Arm Compatible Electric OT Table",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 20,
+    "image_file": "database/zohra/product_images/zohra-20-03-zse-a123b.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-20-03-zse-a123b.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-143",
+    "sku": "ZSE A123C",
+    "model_number": "ZSE A123C",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "OT Equipment",
+    "product_name_source": "Bariatric OT Table",
+    "product_name_search": "Bariatric OT Table",
+    "short_description": "Bariatric OT Table",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 20,
+    "image_file": "database/zohra/product_images/zohra-20-04-zse-a123c.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-20-04-zse-a123c.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-144",
+    "sku": "ZSE A125B",
+    "model_number": "ZSE A125B",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "OT Equipment",
+    "product_name_source": "Delivery OT Table",
+    "product_name_search": "Delivery OT Table",
+    "short_description": "Delivery OT Table",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 20,
+    "image_file": "database/zohra/product_images/zohra-20-05-zse-a125b.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-20-05-zse-a125b.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-145",
+    "sku": "ZSE A125",
+    "model_number": "ZSE A125",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "OT Equipment",
+    "product_name_source": "Three-Section Delivery Table",
+    "product_name_search": "Three-Section Delivery Table",
+    "short_description": "Three-Section Delivery Table",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 20,
+    "image_file": "database/zohra/product_images/zohra-20-06-zse-a125.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-20-06-zse-a125.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-146",
+    "sku": "ZSE A126C",
+    "model_number": "ZSE A126C",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "OT Equipment",
+    "product_name_source": "Fully Electric General Surgery OT Table",
+    "product_name_search": "Fully Electric General Surgery OT Table",
+    "short_description": "Fully Electric General Surgery OT Table",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 20,
+    "image_file": "database/zohra/product_images/zohra-20-07-zse-a126c.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-20-07-zse-a126c.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-147",
+    "sku": "ZSE A126D",
+    "model_number": "ZSE A126D",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "OT Equipment",
+    "product_name_source": "Hydraulic General Surgery OT Table",
+    "product_name_search": "Hydraulic General Surgery OT Table",
+    "short_description": "Hydraulic General Surgery OT Table",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 20,
+    "image_file": "database/zohra/product_images/zohra-20-08-zse-a126d.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-20-08-zse-a126d.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-148",
+    "sku": "ZSE A214",
+    "model_number": "ZSE A214",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "Surgical Instruments and Hospital Uniform",
+    "product_name_source": "Surgical Instrument Set",
+    "product_name_search": "Surgical Instrument Set",
+    "short_description": "Surgical Instrument Set",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 21,
+    "image_file": "database/zohra/product_images/zohra-21-01-zse-a214.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-21-01-zse-a214.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-149",
+    "sku": "ZSE U01",
+    "model_number": "ZSE U01",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "Surgical Instruments and Hospital Uniform",
+    "product_name_source": "Doctor's Long Lab Coat",
+    "product_name_search": "Doctor's Long Lab Coat",
+    "short_description": "Doctor's Long Lab Coat",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 21,
+    "image_file": "database/zohra/product_images/zohra-21-02-zse-u01.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-21-02-zse-u01.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-150",
+    "sku": "ZSE U02",
+    "model_number": "ZSE U02",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "Surgical Instruments and Hospital Uniform",
+    "product_name_source": "Nurses' Tunics and Blouses",
+    "product_name_search": "Nurses' Tunics and Blouses",
+    "short_description": "Nurses' Tunics and Blouses",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 21,
+    "image_file": "database/zohra/product_images/zohra-21-03-zse-u02.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-21-03-zse-u02.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-151",
+    "sku": "ZSE U03",
+    "model_number": "ZSE U03",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "Surgical Instruments and Hospital Uniform",
+    "product_name_source": "Lab Technician Short Coat",
+    "product_name_search": "Lab Technician Short Coat",
+    "short_description": "Lab Technician Short Coat",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 21,
+    "image_file": "database/zohra/product_images/zohra-21-04-zse-u03.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-21-04-zse-u03.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-152",
+    "sku": "ZSE U04",
+    "model_number": "ZSE U04",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "Surgical Instruments and Hospital Uniform",
+    "product_name_source": "V-Neck Scrub Set - Unisex",
+    "product_name_search": "V-Neck Scrub Set - Unisex",
+    "short_description": "V-Neck Scrub Set - Unisex",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 21,
+    "image_file": "database/zohra/product_images/zohra-21-05-zse-u04.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-21-05-zse-u04.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-153",
+    "sku": "ZSE U05",
+    "model_number": "ZSE U05",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "Surgical Instruments and Hospital Uniform",
+    "product_name_source": "Round-Neck Scrub Set",
+    "product_name_search": "Round-Neck Scrub Set",
+    "short_description": "Round-Neck Scrub Set",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 21,
+    "image_file": "database/zohra/product_images/zohra-21-06-zse-u05.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-21-06-zse-u05.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-154",
+    "sku": "ZSE U06",
+    "model_number": "ZSE U06",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "Surgical Instruments and Hospital Uniform",
+    "product_name_source": "Premium Performance Scrubs",
+    "product_name_search": "Premium Performance Scrubs",
+    "short_description": "Premium Performance Scrubs",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 21,
+    "image_file": "database/zohra/product_images/zohra-21-07-zse-u06.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-21-07-zse-u06.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-155",
+    "sku": "ZSE U07",
+    "model_number": "ZSE U07",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "Surgical Instruments and Hospital Uniform",
+    "product_name_source": "Patient Gowns",
+    "product_name_search": "Patient Gowns",
+    "short_description": "Patient Gowns",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 21,
+    "image_file": "database/zohra/product_images/zohra-21-08-zse-u07.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-21-08-zse-u07.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-156",
+    "sku": "ZSE U08",
+    "model_number": "ZSE U08",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "Surgical Instruments and Hospital Uniform",
+    "product_name_source": "Surgical Scrubs and Cap Set",
+    "product_name_search": "Surgical Scrubs and Cap Set",
+    "short_description": "Surgical Scrubs and Cap Set",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 21,
+    "image_file": "database/zohra/product_images/zohra-21-09-zse-u08.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-21-09-zse-u08.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-157",
+    "sku": "ZSE U09",
+    "model_number": "ZSE U09",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "Surgical Instruments and Hospital Uniform",
+    "product_name_source": "Maternity Scrubs",
+    "product_name_search": "Maternity Scrubs",
+    "short_description": "Maternity Scrubs",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 21,
+    "image_file": "database/zohra/product_images/zohra-21-10-zse-u09.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-21-10-zse-u09.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-158",
+    "sku": "ZSE A196",
+    "model_number": "ZSE A196",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "ICU Equipment",
+    "product_name_source": "X-Ray Illuminator",
+    "product_name_search": "X-Ray Illuminator",
+    "short_description": "X-Ray Illuminator",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 22,
+    "image_file": "database/zohra/product_images/zohra-22-01-zse-a196.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-22-01-zse-a196.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-159",
+    "sku": "ZSE A205",
+    "model_number": "ZSE A205",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "ICU Equipment",
+    "product_name_source": "Electric Needle Destroyer",
+    "product_name_search": "Electric Needle Destroyer",
+    "short_description": "Electric Needle Destroyer",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 22,
+    "image_file": "database/zohra/product_images/zohra-22-02-zse-a205.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-22-02-zse-a205.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-160",
+    "sku": "ZSE A218",
+    "model_number": "ZSE A218",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "ICU Equipment",
+    "product_name_source": "Oxygen Concentrator",
+    "product_name_search": "Oxygen Concentrator",
+    "short_description": "Oxygen Concentrator",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 22,
+    "image_file": "database/zohra/product_images/zohra-22-03-zse-a218.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-22-03-zse-a218.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-161",
+    "sku": "ZSE A145",
+    "model_number": "ZSE A145",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "ICU Equipment",
+    "product_name_source": "ECG Machine",
+    "product_name_search": "ECG Machine",
+    "short_description": "ECG Machine",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 22,
+    "image_file": "database/zohra/product_images/zohra-22-04-zse-a145.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-22-04-zse-a145.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-162",
+    "sku": "ZSE A198",
+    "model_number": "ZSE A198",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "ICU Equipment",
+    "product_name_source": "HVS Cutter",
+    "product_name_search": "HVS Cutter",
+    "short_description": "HVS Cutter",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 22,
+    "image_file": "database/zohra/product_images/zohra-22-05-zse-a198.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-22-05-zse-a198.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-163",
+    "sku": "ZSE A198A",
+    "model_number": "ZSE A198A",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "ICU Equipment",
+    "product_name_source": "Laryngoscope",
+    "product_name_search": "Laryngoscope",
+    "short_description": "Laryngoscope",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 22,
+    "image_file": "database/zohra/product_images/zohra-22-06-zse-a198a.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-22-06-zse-a198a.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-164",
+    "sku": "ZSE AN48",
+    "model_number": "ZSE AN48",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "ICU Equipment",
+    "product_name_source": "Oxygen Hood",
+    "product_name_search": "Oxygen Hood",
+    "short_description": "Oxygen Hood",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 22,
+    "image_file": "database/zohra/product_images/zohra-22-07-zse-an48.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-22-07-zse-an48.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-165",
+    "sku": "ZSE A221",
+    "model_number": "ZSE A221",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "ICU Equipment",
+    "product_name_source": "Ambu Bag",
+    "product_name_search": "Ambu Bag",
+    "short_description": "Ambu Bag",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 22,
+    "image_file": "database/zohra/product_images/zohra-22-08-zse-a221.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-22-08-zse-a221.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-166",
+    "sku": "ZSE A222",
+    "model_number": "ZSE A222",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "ICU Equipment",
+    "product_name_source": "BiPAP",
+    "product_name_search": "BiPAP",
+    "short_description": "BiPAP",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 22,
+    "image_file": "database/zohra/product_images/zohra-22-09-zse-a222.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-22-09-zse-a222.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-167",
+    "sku": "ZSE A223",
+    "model_number": "ZSE A223",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "ICU Equipment",
+    "product_name_source": "CPAP",
+    "product_name_search": "CPAP",
+    "short_description": "CPAP",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 22,
+    "image_file": "database/zohra/product_images/zohra-22-10-zse-a223.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-22-10-zse-a223.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-168",
+    "sku": "ZSE A215",
+    "model_number": "ZSE A215",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "Lab and General Equipment",
+    "product_name_source": "Blood Bank Refrigerator",
+    "product_name_search": "Blood Bank Refrigerator",
+    "short_description": "Blood Bank Refrigerator",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 23,
+    "image_file": "database/zohra/product_images/zohra-23-01-zse-a215.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-23-01-zse-a215.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-169",
+    "sku": "ZSE A215A",
+    "model_number": "ZSE A215A",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "Lab and General Equipment",
+    "product_name_source": "Hot Air Oven",
+    "product_name_search": "Hot Air Oven",
+    "short_description": "Hot Air Oven",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 23,
+    "image_file": "database/zohra/product_images/zohra-23-02-zse-a215a.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-23-02-zse-a215a.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-170",
+    "sku": "ZSE A216",
+    "model_number": "ZSE A216",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "Lab and General Equipment",
+    "product_name_source": "BOD Incubator",
+    "product_name_search": "BOD Incubator",
+    "short_description": "BOD Incubator",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 23,
+    "image_file": "database/zohra/product_images/zohra-23-03-zse-a216.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-23-03-zse-a216.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-171",
+    "sku": "ZSE A239",
+    "model_number": "ZSE A239",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "Lab and General Equipment",
+    "product_name_source": "Hanging Weighing Scale",
+    "product_name_search": "Hanging Weighing Scale",
+    "short_description": "Hanging Weighing Scale",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 23,
+    "image_file": "database/zohra/product_images/zohra-23-04-zse-a239.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-23-04-zse-a239.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-172",
+    "sku": "ZSE A235",
+    "model_number": "ZSE A235",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "Lab and General Equipment",
+    "product_name_source": "Weight Scale",
+    "product_name_search": "Weight Scale",
+    "short_description": "Weight Scale",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 23,
+    "image_file": "database/zohra/product_images/zohra-23-05-zse-a235.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-23-05-zse-a235.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-173",
+    "sku": "ZSE A236",
+    "model_number": "ZSE A236",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "Lab and General Equipment",
+    "product_name_source": "Digital Weight Scale",
+    "product_name_search": "Digital Weight Scale",
+    "short_description": "Digital Weight Scale",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 23,
+    "image_file": "database/zohra/product_images/zohra-23-06-zse-a236.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-23-06-zse-a236.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-174",
+    "sku": "ZSE A237",
+    "model_number": "ZSE A237",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "Lab and General Equipment",
+    "product_name_source": "Industrial Weighing Scale",
+    "product_name_search": "Industrial Weighing Scale",
+    "short_description": "Industrial Weighing Scale",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 23,
+    "image_file": "database/zohra/product_images/zohra-23-07-zse-a237.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-23-07-zse-a237.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-175",
+    "sku": "ZSE A217",
+    "model_number": "ZSE A217",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "Lab and General Equipment",
+    "product_name_source": "Deep Freezer",
+    "product_name_search": "Deep Freezer",
+    "short_description": "Deep Freezer",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 23,
+    "image_file": "database/zohra/product_images/zohra-23-08-zse-a217.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-23-08-zse-a217.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-176",
+    "sku": "ZSE A217A",
+    "model_number": "ZSE A217A",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "Lab and General Equipment",
+    "product_name_source": "Plasma Freezer",
+    "product_name_search": "Plasma Freezer",
+    "short_description": "Plasma Freezer",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 23,
+    "image_file": "database/zohra/product_images/zohra-23-09-zse-a217a.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-23-09-zse-a217a.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-177",
+    "sku": "ZSE A262",
+    "model_number": "ZSE A262",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "Lab and General Equipment",
+    "product_name_source": "Digital Thermometer",
+    "product_name_search": "Digital Thermometer",
+    "short_description": "Digital Thermometer",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 23,
+    "image_file": "database/zohra/product_images/zohra-23-10-zse-a262.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-23-10-zse-a262.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-178",
+    "sku": "ZSE A181",
+    "model_number": "ZSE A181",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "Lab and General Equipment",
+    "product_name_source": "ENT Headlamp",
+    "product_name_search": "ENT Headlamp",
+    "short_description": "ENT Headlamp",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 23,
+    "image_file": "database/zohra/product_images/zohra-23-11-zse-a181.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-23-11-zse-a181.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-179",
+    "sku": "ZSE A170",
+    "model_number": "ZSE A170",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "NICU Equipment",
+    "product_name_source": "Infant Incubator with Trolley",
+    "product_name_search": "Infant Incubator with Trolley",
+    "short_description": "Infant Incubator with Trolley",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 24,
+    "image_file": "database/zohra/product_images/zohra-24-01-zse-a170.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-24-01-zse-a170.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-180",
+    "sku": "ZSE A188",
+    "model_number": "ZSE A188",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "NICU Equipment",
+    "product_name_source": "Phototherapy Unit",
+    "product_name_search": "Phototherapy Unit",
+    "short_description": "Phototherapy Unit",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 24,
+    "image_file": "database/zohra/product_images/zohra-24-02-zse-a188.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-24-02-zse-a188.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-181",
+    "sku": "ZSE A171",
+    "model_number": "ZSE A171",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "NICU Equipment",
+    "product_name_source": "Baby Bassinet",
+    "product_name_search": "Baby Bassinet",
+    "short_description": "Baby Bassinet",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 24,
+    "image_file": "database/zohra/product_images/zohra-24-03-zse-a171.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-24-03-zse-a171.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
+  },
+  {
+    "product_id": "ZOHRA-182",
+    "sku": "ZSE A172",
+    "model_number": "ZSE A172",
+    "manufacturer": "Zohra Surgical Enterprises",
+    "catalog_section_source": "NICU Equipment",
+    "product_name_source": "Baby Cradle",
+    "product_name_search": "Baby Cradle",
+    "short_description": "Baby Cradle",
+    "technical_specifications": "N/A",
+    "specification_status": "N/A",
+    "source_pdf": "zohra surgical enterprises.pdf",
+    "source_pdf_page": 24,
+    "image_file": "database/zohra/product_images/zohra-24-04-zse-a172.webp",
+    "image_files": [
+      "database/zohra/product_images/zohra-24-04-zse-a172.webp"
+    ],
+    "data_quality_note": "Product name, model and image transcribed from the supplied catalogue; no technical specification table was provided."
   }
 ]
