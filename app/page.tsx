@@ -5,7 +5,7 @@ import { useEffect, useMemo, useState } from "react";
 type Product = { product_id:string; sku:string; manufacturer:string; catalog_section_source:string; product_name_source:string; product_name_search:string; technical_specifications:string; specification_status:string; source_pdf:string; source_pdf_page:number; image_file:string; image_files?:string[]; model_number?:string; short_description?:string; detailed_description?:string; };
 type CompanyType="Medical Furniture"|"Medical Equipment";
 const ASSET_BASE=typeof window!=="undefined"&&window.location.hostname.endsWith("github.io")?"/medical-equipment-dashboard":"";
-const IMAGE_VERSION="20260825-zohra-recrops-v3";
+const IMAGE_VERSION="20260825-new-catalogues";
 const companyProfiles:Record<string,{shortName:string;companyType:CompanyType;description:string;address:string;phone:string;email:string}>={
  "Hosmed Healthcare Industries Pvt. Ltd.":{
   shortName:"Hosmed Healthcare",
@@ -78,6 +78,30 @@ const companyProfiles:Record<string,{shortName:string;companyType:CompanyType;de
   address:"N/A",
   phone:"N/A",
   email:"N/A"
+ },
+ "Neonest Medical Systems":{
+  shortName:"Neonest",
+  companyType:"Medical Equipment",
+  description:"Manufacturer of neonatal intensive-care equipment, including radiant warmers, open-care systems, resuscitation units, incubators, phototherapy systems and baby trolleys.",
+  address:"N/A",
+  phone:"N/A",
+  email:"N/A"
+ },
+ "VDS Medical Systems Pvt. Ltd.":{
+  shortName:"VDS Medical Systems",
+  companyType:"Medical Furniture",
+  description:"Manufacturer of hospital beds, ward and operation-theatre furniture, examination and delivery tables, trolleys, bedside furniture and general hospital equipment.",
+  address:"Plant: Plot No. D-7, 8, 9, Industrial Area, Gopalpur, Sikandarabad, Bulandshahar - 203205. Branch: S.S.B. Complex, Plot No. C-2, Kanpur Road Yojana, Sector-L, Ashiyana, Lucknow - 226012.",
+  phone:"8882212171, 8860616207/08/09",
+  email:"info@vdsmedicalsystems.com"
+ },
+ "Syris Biotech Private Limited":{
+  shortName:"Syris Biotech",
+  companyType:"Medical Equipment",
+  description:"Medical-equipment and diagnostic-products company covering patient monitoring, ECG, respiratory care, defibrillation, clinical chemistry, electrolyte, coagulation, immunoassay, haematology and rapid-testing products.",
+  address:"221, 2nd Floor, Ocus Quantum, Sector-51, Gurugram - 122018",
+  phone:"0124-4777578, +91 99587 95369",
+  email:"info@syrisbiotech.com"
  }
 };
 
