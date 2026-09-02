@@ -5,7 +5,7 @@ import { useEffect, useMemo, useState } from "react";
 type Product = { product_id:string; sku:string; manufacturer:string; catalog_section_source:string; product_name_source:string; product_name_search:string; technical_specifications:string; specification_status:string; source_pdf:string; source_pdf_page:number; image_file:string; image_files?:string[]; model_number?:string; short_description?:string; detailed_description?:string; };
 type CompanyType="Medical Furniture"|"Medical Equipment";
 const ASSET_BASE=typeof window!=="undefined"&&window.location.hostname.endsWith("github.io")?"/medical-equipment-dashboard":"";
-const IMAGE_VERSION="20260825-syris-recrops-v2";
+const IMAGE_VERSION="20260902-neoexpert";
 const companyProfiles:Record<string,{shortName:string;companyType:CompanyType;description:string;address:string;phone:string;email:string}>={
  "Hosmed Healthcare Industries Pvt. Ltd.":{
   shortName:"Hosmed Healthcare",
@@ -102,6 +102,14 @@ const companyProfiles:Record<string,{shortName:string;companyType:CompanyType;de
   address:"221, 2nd Floor, Ocus Quantum, Sector-51, Gurugram - 122018",
   phone:"0124-4777578, +91 99587 95369",
   email:"info@syrisbiotech.com"
+ },
+ "Neo Expert Pvt. Ltd.":{
+  shortName:"Neo Expert",
+  companyType:"Medical Equipment",
+  description:"ISO-certified manufacturer of neonatal-care, respiratory, anaesthesia, oxygen-therapy, suction, pipeline and medical accessory products. The supplied catalogues cover complete neonatal systems as well as product-code-specific components and consumables.",
+  address:"Factory: Plot No. 40-41/23B, Industrial Area No. 1, A.B. Road, Village Amona, near Kshipra Drugs, District Dewas, Madhya Pradesh - 455001. Mumbai Office: Office No. 7, 1st Floor, Patil & Sons Compound, near Dingeshwar Talav, Charkop Village, Kandivali (W), Mumbai - 400067.",
+  phone:"+91 9820236068, +91 9322225343, +91 9324236726, +91 9009678600",
+  email:"neoexpertpl@gmail.com"
  }
 };
 
